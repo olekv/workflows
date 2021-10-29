@@ -1,3 +1,3 @@
 # workflows
 
-Examples of Github workwlows.
+Examples of Github workflows.
